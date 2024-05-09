@@ -1,5 +1,5 @@
 # Daenerys-Logger
-The most powerful stealer, which works with discord webhooks.
+The most simple stealer, which works with discord webhooks.
 
 
 
