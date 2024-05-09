@@ -61,10 +61,15 @@ The most powerful stealer, which works with discord webhooks.
 ## How to build Daenerys Logger?
 
 Download Daenerys Logger.
+
 Extract the rar file.
+
 Double click Daenerys.exe
+
 Select the boxes you want the logger to steal.
+
 Place your webhook.
+
 Press Enter and your stub will start building.
 
 
