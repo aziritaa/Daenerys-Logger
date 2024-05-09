@@ -11,55 +11,55 @@ The most powerful stealer, which works with discord webhooks.
 ## Features:
 
 
- -Custom Icon
+ -  Custom Icon
 
- -Runs On Startup
+ - Runs On Startup
 
- -Disables Windows Defender
+ - Disables Windows Defender
 
- -Anti-VM
+ - Anti-VM
 
- -Blocks AV-Related Sites
+ - Blocks AV-Related Sites
 
- -Melt Stub
+ - Melt Stub
 
--Fake Error
+- Fake Error
 
- -EXE Binder
+ - EXE Binder
 
- -Obfuscated Code
+ - Obfuscated Code
 
- -Discord Injection
+ - Discord Injection
 
- -Steals Tokens
+ - Steals Tokens
 
- -Steals Steam Session
+ - Steals Steam Session
 
- -Steals Passwords From Many Browsers
+ - Steals Passwords From Many Browsers
 
- -Steals Cookies From Many Browsers
+ - Steals Cookies From Many Browsers
 
- -Steals History From Many Browsers
+ - Steals History From Many Browsers
 
- -Steals Autofills From Many Browsers
+ - Steals Autofills From Many Browsers
  
- -Steals Telegram Session Files
+ - Steals Telegram Session Files
  
- -Steals Wallets
+ - Steals Wallets
  
- -Steals Cookies
+ - Steals Cookies
  
- -Steals IP Information
+ - Steals IP Information
  
- -Steals System Info
+ - Steals System Info
  
- -Steals Saved Wifi Passwords
+ - Steals Saved Wifi Passwords
  
- -Steals Common Files
+ - Steals Common Files
  
- -Captures Screenshot
+ - Captures Screenshot
  
- -Captures Webcam Image
+ - Captures Webcam Image
 and more...
 
 
